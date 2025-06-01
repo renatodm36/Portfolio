@@ -75,10 +75,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-green-500/20 pt-8 flex flex-col md:flex-row items-center justify-between">
           <p className="text-gray-300 text-sm mb-4 md:mb-0">
-            © {currentYear} João Silva. {language === 'pt' ? 'Todos os direitos reservados.' : 'All rights reserved.'}
-          </p>
-          <p className="text-gray-300 text-sm">
-            {language === 'pt' ? 'Feito com' : 'Made with'} <span className="text-green-500">❤️</span> {language === 'pt' ? 'e React' : 'and React'}
+            © {currentYear} Renato Duarte. {language === 'pt' ? 'Todos os direitos reservados.' : 'All rights reserved.'}
           </p>
         </div>
       </div>
