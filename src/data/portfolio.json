@@ -1,0 +1,328 @@
+{
+  "pt": {
+    "navigation": {
+      "home": "Início",
+      "about": "Sobre",
+      "projects": "Projetos",
+      "skills": "Habilidades",
+      "experience": "Experiência",
+      "contact": "Contato"
+    },
+    "hero": {
+      "greeting": "Olá, eu sou",
+      "name": "Renato Duarte",
+      "title": "Desenvolvedor Full Stack",
+      "description": "Transformo ideias em experiências digitais incríveis através de código limpo e design inovador.",
+      "cta": "Ver Meu Trabalho"
+    },
+    "about": {
+      "title": "Sobre Mim",
+      "subtitle": "Desenvolvedor apaixonado por tecnologia",
+      "description": "Sou um desenvolvedor full stack com mais de 5 anos de experiência criando soluções web inovadoras. Especializado em React, PHP, C#, e bancos de dados como MySQL, SQL Server e Oracle. Tenho forte conhecimento em DevOps e foco constante em código limpo e performance.",
+      "highlights": [
+        "3+ anos de experiência em desenvolvimento",
+        "Especialista em C#, HTML, CSS, JavaScript e bancos de dados",
+        "Focado em performance e DevOps",
+        "Apaixonado por código limpo"
+      ]
+    },
+    "projects": {
+      "title": "Projetos",
+      "subtitle": "Trabalhos que definem minha jornada",
+      "items": [
+        {
+          "id": 1,
+          "name": "Japa da Roleta - Single Page Application",
+          "description": "Plataforma de divulgação.",
+          "technologies": [
+            "React"
+          ],
+          "image": "JapaDaRoleta.png",
+          "github": "",
+          "live": "https://japadaroleta.com/",
+          "featured": false
+        }
+      ]
+    },
+    "skills": {
+      "title": "Habilidades",
+      "subtitle": "Tecnologias que domino",
+      "categories": [
+        {
+          "id": 1,
+          "name": "Frontend",
+          "skills": [
+            {
+              "name": "HTML",
+              "level": "Avançado"
+            },
+            {
+              "name": "CSS",
+              "level": "Avançado"
+            },
+            {
+              "name": "JavaScript",
+              "level": "Avançado"
+            },
+            {
+              "name": "React",
+              "level": "Intermediário"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Backend",
+          "skills": [
+            {
+              "name": "C#",
+              "level": "Avançado"
+            },
+            {
+              "name": "PHP",
+              "level": "Básico"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Banco de dados",
+          "skills": [
+            {
+              "name": "MySQL",
+              "level": "Intermediário"
+            },
+            {
+              "name": "SQL Server",
+              "level": "Intermediário"
+            },
+            {
+              "name": "Oracle",
+              "level": "Intermediário"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "DevOps",
+          "skills": [
+            {
+              "name": "Git",
+              "level": "Intermediário"
+            },
+            {
+              "name": "DevOps",
+              "level": "Intermediário"
+            }
+          ]
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experiência",
+      "subtitle": "Minha jornada profissional",
+      "items": [
+        {
+          "id": 1,
+          "company": "iPortSolutions",
+          "positions": [
+            {
+              "title": "Engenheiro de Software 4",
+              "period": "2025 - Presente",
+              "description": "Responsável pelo desenvolvimento de soluções robustas, melhoria de performance, atendimento de chamados críticos e apoiando decisões técnicas estratégicas da equipe."
+            },
+            {
+              "title": "Engenheiro de Software 3",
+              "period": "Meados de 2024 - 2025",
+              "description": "Atuei no desenvolvimento de sistemas escaláveis e na melhoria contínua de processos de DevOps e integração contínua."
+            },
+            {
+              "title": "Engenheiro de Software 2",
+              "period": "Meados de 2023 - Meados de 2024",
+              "description": "Colaborei com equipes multidisciplinares para entregar soluções full stack utilizando C#, HTML, CSS, JavaScript, DevExpress, SQL Server e Oracle."
+            },
+            {
+              "title": "Engenheiro de Software 1",
+              "period": "2022 - Meados de 2023",
+              "description": "Desenvolvimento de funcionalidades backend e frontend com foco em qualidade e performance utilizando C#, HTML, CSS, JavaScript e MySQL."
+            },
+            {
+              "title": "Estagiário",
+              "period": "Início de 2022",
+              "description": "Iniciei minha trajetória profissional contribuindo com pequenas melhorias e aprendendo boas práticas de versionamento com Git e DevOps."
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contato",
+      "subtitle": "Vamos trabalhar juntos",
+      "description": "Estou sempre aberto a novas oportunidades e projetos interessantes. Entre em contato!",
+      "email": "renatodm36@outlook.com",
+      "phone": "+55 (13) 99172-1465",
+      "location": "São Vicente - SP, Brasil"
+    }
+  },
+  "en": {
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "contact": "Contact"
+    },
+    "hero": {
+      "greeting": "Hello, I'm",
+      "name": "Renato Duarte",
+      "title": "Full Stack Developer",
+      "description": "I transform ideas into incredible digital experiences through clean code and innovative design.",
+      "cta": "View My Work"
+    },
+    "about": {
+      "title": "About Me",
+      "subtitle": "Developer passionate about technology",
+      "description": "I'm a full stack developer with over 5 years of experience creating innovative web solutions. Specialized in React, PHP, C#, and databases such as MySQL, SQL Server, and Oracle. I have strong knowledge in DevOps and a constant focus on clean code and performance.",
+      "highlights": [
+        "3+ years of development experience",
+        "Specialist in C#, HTML, CSS, JavaScript, and databases",
+        "Focused on performance and DevOps",
+        "Passionate about clean code"
+      ]
+    },
+    "projects": {
+      "title": "Projects",
+      "subtitle": "Work that defines my journey",
+      "items": [
+        {
+          "id": 1,
+          "name": "Japa da Roleta - Single Page Application",
+          "description": "Promotion platform.",
+          "technologies": [
+            "React"
+          ],
+          "image": "JapaDaRoleta.png",
+          "github": "",
+          "live": "https://japadaroleta.com/",
+          "featured": false
+        }
+      ]
+    },
+    "skills": {
+      "title": "Skills",
+      "subtitle": "Technologies I master",
+      "categories": [
+        {
+          "name": "Frontend",
+          "skills": [
+            {
+              "name": "HTML",
+              "level": "Advanced"
+            },
+            {
+              "name": "CSS",
+              "level": "Advanced"
+            },
+            {
+              "name": "JavaScript",
+              "level": "Advanced"
+            },
+            {
+              "name": "React",
+              "level": "Intermediate"
+            }
+          ]
+        },
+        {
+          "name": "Backend",
+          "skills": [
+            {
+              "name": "C#",
+              "level": "Advanced"
+            },
+            {
+              "name": "PHP",
+              "level": "Basic"
+            }
+          ]
+        },
+        {
+          "name": "Databases",
+          "skills": [
+            {
+              "name": "MySQL",
+              "level": "Intermediate"
+            },
+            {
+              "name": "SQL Server",
+              "level": "Intermediate"
+            },
+            {
+              "name": "Oracle",
+              "level": "Intermediate"
+            }
+          ]
+        },
+        {
+          "name": "DevOps",
+          "skills": [
+            {
+              "name": "Git",
+              "level": "Intermediate"
+            },
+            {
+              "name": "DevOps",
+              "level": "Intermediate"
+            }
+          ]
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experience",
+      "subtitle": "My professional journey",
+      "items": [
+        {
+          "id": 1,
+          "company": "iPortSolutions",
+          "positions": [
+            {
+              "title": "Software Engineer 4",
+              "period": "2025 - Present",
+              "description": "Responsible for developing robust solutions, improving performance, handling critical support tickets, and supporting the team's strategic technical decisions."
+            },
+            {
+              "title": "Software Engineer 3",
+              "period": "Mid 2024 - 2025",
+              "description": "Worked on the development of scalable systems and continuous improvement of DevOps and continuous integration processes."
+            },
+            {
+              "title": "Software Engineer 2",
+              "period": "Mid 2023 - Mid 2024",
+              "description": "Collaborated with multidisciplinary teams to deliver full stack solutions using C#, HTML, CSS, JavaScript, DevExpress, SQL Server, and Oracle."
+            },
+            {
+              "title": "Software Engineer 1",
+              "period": "2022 - Mid 2023",
+              "description": "Developed backend and frontend features focused on quality and performance using C#, HTML, CSS, JavaScript, and MySQL."
+            },
+            {
+              "title": "Intern",
+              "period": "Early 2022",
+              "description": "Started my professional journey by contributing with small improvements and learning best practices in version control with Git and DevOps."
+            }
+          ]
+        }
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Let's work together",
+      "description": "I'm always open to new opportunities and interesting projects. Get in touch!",
+      "email": "joao.silva@email.com",
+      "phone": "+55 13 99172-1465",
+      "location": "São Vicente - SP, Brasil"
+    }
+  }
+}
