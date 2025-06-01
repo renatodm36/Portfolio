@@ -32,7 +32,21 @@
       "items": [
         {
           "id": 1,
-          "name": "Japa da Roleta - Single Page Application",
+          "name": "Meu iPhone dos Sonhos",
+          "description": "Plataforma de divulgação e catálogo de produtos.",
+          "technologies": [
+            "React",
+            "PHP",
+            "MySQL"
+          ],
+          "image": "MeuIphoneDosSonhos.png",
+          "github": "",
+          "live": "https://app.iphone.maincontrol.com.br/",
+          "featured": true
+        },
+        {
+          "id": 1,
+          "name": "Japa da Roleta",
           "description": "Plataforma de divulgação.",
           "technologies": [
             "React"
@@ -197,6 +211,20 @@
       "items": [
         {
           "id": 1,
+          "name": "Meu iPhone dos Sonhos",
+          "description": "Product catalog and promotional platform.",
+          "technologies": [
+            "React",
+            "PHP",
+            "MySQL"
+          ],
+          "image": "MeuIphoneDosSonhos.png",
+          "github": "",
+          "live": "https://app.iphone.maincontrol.com.br/",
+          "featured": true
+        },
+        {
+          "id": 2,
           "name": "Japa da Roleta - Single Page Application",
           "description": "Promotion platform.",
           "technologies": [
