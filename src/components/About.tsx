@@ -17,7 +17,7 @@ const About = () => {
             <p className="text-gray-300 text-lg leading-relaxed mb-8">
               {data.about.description}
             </p>
-            
+
             <div className="space-y-4">
               {data.about.highlights.map((highlight, index) => (
                 <div
@@ -33,18 +33,24 @@ const About = () => {
           </div>
 
           <div className="relative animate-scale-in">
-            <div className="aspect-square rounded-2xl bg-gradient-to-br from-green-500/20 to-transparent border border-green-500/20 backdrop-blur-sm">
+
+            <div className="aspect-square rounded-2xl bg-gradient-to-br from-green-500/20 to-transparent border border-green-500/20 backdrop-blur-sm relative">
               <div className="absolute inset-4 rounded-xl bg-black/50 flex items-center justify-center">
                 <div className="text-center">
-                  <div className="w-24 h-24 mx-auto mb-4 rounded-full bg-green-500/20 flex items-center justify-center">
-                    <span className="text-2xl font-bold text-green-500">JS</span>
+                  <div className="w-64 h-64 mx-auto mb-4 rounded-full bg-green-500/20 flex items-center justify-center overflow-hidden">
+                    <img
+                      src="/img/Eu.jpg"
+                      alt="Minha Foto"
+                      className="w-full h-full object-cover"
+                    />
                   </div>
                   <p className="text-white font-semibold">Desenvolvedor</p>
                   <p className="text-green-500">Full Stack</p>
                 </div>
               </div>
             </div>
-            
+
+
             {/* Floating Elements */}
             <div className="absolute -top-4 -right-4 w-16 h-16 bg-green-500/10 rounded-full animate-pulse" />
             <div className="absolute -bottom-4 -left-4 w-12 h-12 bg-green-500/20 rounded-full animate-pulse" style={{ animationDelay: '1s' }} />
