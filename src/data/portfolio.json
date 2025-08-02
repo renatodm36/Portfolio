@@ -18,10 +18,10 @@
     "about": {
       "title": "Sobre Mim",
       "subtitle": "Desenvolvedor apaixonado por tecnologia",
-      "description": "Sou um desenvolvedor full stack com mais de 5 anos de experiência criando soluções web inovadoras. Especializado em C#, HTML, CSS, JavaScript e bancos de dados como MySQL, SQL Server e Oracle. Focado em aprender React. Tenho forte conhecimento em DevOps e foco constante em código limpo e performance.",
+      "description": "Sou um desenvolvedor full stack com mais de 3 anos de experiência criando soluções web inovadoras. Especializado em C#, HTML, CSS, JavaScript, PHP, React e bancos de dados como MySQL, SQL Server e Oracle. Tenho forte conhecimento em DevOps e foco constante em código limpo e performance.",
       "highlights": [
         "3+ anos de experiência em desenvolvimento",
-        "Especialista em C#, HTML, CSS, JavaScript e bancos de dados",
+        "Especialista em C#, HTML, CSS, JavaScript, PHP, React e bancos de dados",
         "Focado em performance e DevOps",
         "Apaixonado por código limpo"
       ]
@@ -33,7 +33,7 @@
         {
           "id": 1,
           "name": "Meu iPhone dos Sonhos",
-          "description": "Plataforma de divulgação e catálogo de produtos.",
+          "description": "Plataforma de divulgação e catálogo de produtos. Atualmente fora do AR.",
           "technologies": [
             "React",
             "PHP",
@@ -41,19 +41,19 @@
           ],
           "image": "MeuIphoneDosSonhos.png",
           "github": "",
-          "live": "https://app.iphone.maincontrol.com.br/",
+          "live": "",
           "featured": true
         },
         {
           "id": 1,
           "name": "Japa da Roleta",
-          "description": "Plataforma de divulgação.",
+          "description": "Plataforma de divulgação. Atualmente fora do AR.",
           "technologies": [
             "React"
           ],
           "image": "JapaDaRoleta.png",
           "github": "",
-          "live": "https://japadaroleta.com/",
+          "live": "",
           "featured": false
         }
       ]
@@ -188,20 +188,20 @@
       "contact": "Contact"
     },
     "hero": {
-      "greeting": "Hello, I'm",
+      "greeting": "Hi, I'm",
       "name": "Renato Duarte",
       "title": "Full Stack Developer",
-      "description": "I transform ideas into incredible digital experiences through clean code and innovative design.",
+      "description": "I turn ideas into amazing digital experiences through clean code and innovative design.",
       "cta": "View My Work"
     },
     "about": {
       "title": "About Me",
       "subtitle": "Developer passionate about technology",
-      "description": "I am a full stack developer with over 5 years of experience creating innovative web solutions. Specialized in C#, HTML, CSS, JavaScript, and databases such as MySQL, SQL Server, and Oracle. Currently focused on learning React. I have strong knowledge of DevOps and a constant focus on clean code and performance.",
+      "description": "I’m a full stack developer with over 3 years of experience creating innovative web solutions. Specialized in C#, HTML, CSS, JavaScript, PHP, React, and databases like MySQL, SQL Server, and Oracle. I have strong knowledge in DevOps and a constant focus on clean code and performance.",
       "highlights": [
         "3+ years of development experience",
-        "Specialist in C#, HTML, CSS, JavaScript, and databases",
-        "Focused on performance and DevOps",
+        "Specialist in C#, HTML, CSS, JavaScript, PHP, React, and databases",
+        "Performance and DevOps oriented",
         "Passionate about clean code"
       ]
     },
@@ -211,8 +211,8 @@
       "items": [
         {
           "id": 1,
-          "name": "Meu iPhone dos Sonhos",
-          "description": "Product catalog and promotional platform.",
+          "name": "My Dream iPhone",
+          "description": "Product catalog and promotional platform. Currently offline.",
           "technologies": [
             "React",
             "PHP",
@@ -220,19 +220,19 @@
           ],
           "image": "MeuIphoneDosSonhos.png",
           "github": "",
-          "live": "https://app.iphone.maincontrol.com.br/",
+          "live": "",
           "featured": true
         },
         {
-          "id": 2,
-          "name": "Japa da Roleta - Single Page Application",
-          "description": "Promotion platform.",
+          "id": 1,
+          "name": "Japa da Roleta",
+          "description": "Promotional platform. Currently offline.",
           "technologies": [
             "React"
           ],
           "image": "JapaDaRoleta.png",
           "github": "",
-          "live": "https://japadaroleta.com/",
+          "live": "",
           "featured": false
         }
       ]
@@ -322,27 +322,27 @@
             {
               "title": "Software Engineer 4",
               "period": "Mid 2025 - Present",
-              "description": "Responsible for developing robust solutions, improving performance, handling critical support tickets, and supporting the team's strategic technical decisions."
+              "description": "Responsible for developing robust solutions, improving performance, handling critical tickets, and supporting the team’s strategic technical decisions."
             },
             {
               "title": "Software Engineer 3",
               "period": "Mid 2023 - Mid 2025",
-              "description": "Worked on the development of scalable systems and continuous improvement of DevOps and continuous integration processes."
+              "description": "Worked on scalable systems development and continuous improvement of DevOps and CI processes."
             },
             {
               "title": "Software Engineer 2",
               "period": "Early 2023 - Mid 2023",
-              "description": "Collaborated with multidisciplinary teams to deliver full stack solutions using C#, HTML, CSS, JavaScript, DevExpress, SQL Server, and Oracle."
+              "description": "Collaborated with cross-functional teams to deliver full stack solutions using C#, HTML, CSS, JavaScript, DevExpress, SQL Server, and Oracle."
             },
             {
               "title": "Software Engineer 1",
               "period": "Mid 2022 - Early 2023",
-              "description": "Developed backend and frontend features focused on quality and performance using C#, HTML, CSS, JavaScript, and MySQL."
+              "description": "Developed backend and frontend features focusing on quality and performance using C#, HTML, CSS, JavaScript, and MySQL."
             },
             {
               "title": "Intern",
               "period": "Early 2022",
-              "description": "Started my professional journey by contributing with small improvements and learning best practices in version control with Git and DevOps."
+              "description": "Started my professional journey contributing to small improvements and learning best practices in version control with Git and DevOps."
             }
           ]
         }
@@ -351,10 +351,10 @@
     "contact": {
       "title": "Contact",
       "subtitle": "Let's work together",
-      "description": "I'm always open to new opportunities and interesting projects. Get in touch!",
+      "description": "I’m always open to new opportunities and interesting projects. Get in touch!",
       "email": "renatodm36@outlook.com",
-      "phone": "+55 13 99172-1465",
-      "location": "São Vicente - SP, Brasil"
+      "phone": "+55 (13) 99172-1465",
+      "location": "São Vicente - SP, Brazil"
     }
   }
 }
