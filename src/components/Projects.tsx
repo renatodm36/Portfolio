@@ -10,7 +10,7 @@ import {
 } from "@/components/ui/carousel"
 
 const Projects = () => {
-  const { data } = useLanguage();
+const { data, language } = useLanguage();
 
   return (
     <section id="projects" className="py-20 bg-black">
@@ -43,7 +43,7 @@ const Projects = () => {
                       <div className="absolute inset-0 bg-gradient-to-t from-gray-900 via-transparent to-transparent" />
                       {project.featured && (
                         <div className="absolute top-4 right-4 px-2 py-1 bg-green-500 text-black text-xs font-semibold rounded">
-                          Featured
+                          {language === 'pt' ? 'Destaque' : 'Featured'}
                         </div>
                       )}
                     </div>
