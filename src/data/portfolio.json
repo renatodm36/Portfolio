@@ -30,7 +30,19 @@
       "title": "Projetos",
       "subtitle": "Trabalhos que definem minha jornada",
       "items": [
-        {
+         {
+          "id": 1,
+          "name": "Portfolio",
+          "description": "Portfolio.",
+          "technologies": [
+            "React"
+          ],
+          "image": "Portfolio.png",
+          "github": "",
+          "live": "https://portfolio-renatodm.vercel.app/",
+          "featured": true
+        }
+        ,{
           "id": 1,
           "name": "Meu iPhone dos Sonhos",
           "description": "Plataforma de divulgação e catálogo de produtos. Atualmente fora do AR.",
@@ -214,6 +226,18 @@
       "subtitle": "Work that defines my journey",
       "items": [
         {
+          "id": 1,
+          "name": "Portfolio",
+          "description": "Portfolio.",
+          "technologies": [
+            "React"
+          ],
+          "image": "Portfolio.png",
+          "github": "",
+          "live": "https://portfolio-renatodm.vercel.app/",
+          "featured": true
+        }
+        ,{
           "id": 1,
           "name": "My Dream iPhone",
           "description": "Product catalog and promotional platform. Currently offline.",
