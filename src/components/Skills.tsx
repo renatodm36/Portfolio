@@ -16,16 +16,16 @@ const Skills = () => {
 
   const getTechIcon = (techName: string) => {
     const name = techName.toLowerCase();
-    if (name.includes('react') || name.includes('vue') || name.includes('css') || name.includes('typescript')) {
+    if (name.includes('react') || name.includes('css') || name.includes('html') || name.includes('javascript') || name.includes('typescript') || name.includes('tailwind')) {
       return <Globe className="w-8 h-8 text-green-500" />;
     }
     if (name.includes('node') || name.includes('python')) {
       return <Server className="w-8 h-8 text-green-500" />;
     }
-    if (name.includes('postgres') || name.includes('mongodb')) {
+    if (name.includes('mysql') || name.includes('oracle') || name.includes('sql server')) {
       return <Database className="w-8 h-8 text-green-500" />;
     }
-    if (name.includes('docker') || name.includes('aws') || name.includes('kubernetes')) {
+    if (name.includes('git') || name.includes('devops')) {
       return <Cloud className="w-8 h-8 text-green-500" />;
     }
     return <Code className="w-8 h-8 text-green-500" />;
