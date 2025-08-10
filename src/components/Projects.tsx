@@ -68,6 +68,7 @@ const { data, language } = useLanguage();
                           <a
                             href={project.github}
                             className="text-gray-300 hover:text-green-500 transition-colors duration-200 text-sm"
+                            target="_blank"
                           >
                             GitHub
                           </a>
